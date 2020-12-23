@@ -1,0 +1,6 @@
+/Users/danilka/RiderProjects/Lab1/Lab1/bin/Debug/Lab1.exe
+/Users/danilka/RiderProjects/Lab1/Lab1/bin/Debug/Lab1.pdb
+/Users/danilka/RiderProjects/Lab1/Lab1/obj/Debug/Lab1.csprojAssemblyReference.cache
+/Users/danilka/RiderProjects/Lab1/Lab1/obj/Debug/Lab1.csproj.CoreCompileInputs.cache
+/Users/danilka/RiderProjects/Lab1/Lab1/obj/Debug/Lab1.exe
+/Users/danilka/RiderProjects/Lab1/Lab1/obj/Debug/Lab1.pdb
